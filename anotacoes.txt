@@ -1,0 +1,14 @@
+// comandos git iniciando projeto
+
+git init // inicia o git em um projeto
+git add remote origin https://github.com/thiagoaurl/estudosDart.git //vincular o projeto ao github
+
+
+// comandos do dia a dia (git)
+
+git add . //adiciona todos os arquivos modificados ao git
+git commit -m "texto" //nome da mensagem (commit)
+git push //subir o código para o github
+git pull //pegar o código atualizado do github 
+git clone endereço https //para baixar o projeto do github
+
